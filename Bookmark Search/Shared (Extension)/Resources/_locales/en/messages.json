@@ -1,0 +1,10 @@
+{
+    "extension_name": {
+        "message": "Bookmark X Searcher",
+        "description": "The display name for the extension."
+    },
+    "extension_description": {
+        "message": "This is Bookmark X Searcher. You should tell us what your extension does here.",
+        "description": "Description of what the extension does."
+    }
+}
